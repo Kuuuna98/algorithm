@@ -31,6 +31,7 @@
 |                                              난이도                                               | 제목               |                                              문제                                               |                풀이                 |
 | :-----------------------------------------------------------------------------------------------: | ------------------ | :---------------------------------------------------------------------------------------------: | :---------------------------------: |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 산타의 선물 공장 2 | [🔍](https://www.codetree.ai/training-field/frequent-problems/santa-gift-factory-2/description) | [📝](./codetree/산타의선물공장2.md) |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 포탑 부수기        |  [🔍](https://www.codetree.ai/training-field/frequent-problems/destroy-the-turret/description)  |   [📝](./codetree/포탑부수기.md)    |
 
 </div>
 </details>
