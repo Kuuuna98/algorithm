@@ -18,6 +18,7 @@
 |                                              난이도                                               | 번호  | 제목          |                    문제                     |                  풀이                  |
 | :-----------------------------------------------------------------------------------------------: | :---: | ------------- | :-----------------------------------------: | :------------------------------------: |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 17825 | 주사위 윷놀이 | [🔍](https://www.acmicpc.net/problem/17825) | [📝](./baekjoon/주사위윷놀이_17825.md) |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 19942 | 다이어트      | [🔍](https://www.acmicpc.net/problem/19942) |   [📝](./baekjoon/다이어트_19942.md)   |
 
 </div>
 </details>
