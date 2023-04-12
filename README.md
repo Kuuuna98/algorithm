@@ -68,6 +68,7 @@
 #### Keyword
 
 - `solve`: 새로운 문제에 대한 풀이
+- `refactor`: 등록한 풀이에 대한 코드 리팩토링
 - `docs`: readme 수정
 
 #### Site
