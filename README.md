@@ -15,15 +15,16 @@
   
 <div markdown="1">
 
-|                                              난이도                                               | 번호  | 제목          |                    문제                     |                  풀이                  |
-| :-----------------------------------------------------------------------------------------------: | :---: | ------------- | :-----------------------------------------: | :------------------------------------: |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 17825 | 주사위 윷놀이 | [🔍](https://www.acmicpc.net/problem/17825) | [📝](./baekjoon/주사위윷놀이_17825.md) |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 19942 | 다이어트      | [🔍](https://www.acmicpc.net/problem/19942) |   [📝](./baekjoon/다이어트_19942.md)   |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 10836 | 여왕벌        | [🔍](https://www.acmicpc.net/problem/10836) |    [📝](./baekjoon/여왕벌_10836.md)    |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/10.svg"/> | 9081  | 단어 맞추기   | [🔍](https://www.acmicpc.net/problem/9081)  |  [📝](./baekjoon/단어맞추기_9081.md)   |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 11559 | Puyo Puyo     | [🔍](https://www.acmicpc.net/problem/11559) |   [📝](./baekjoon/PuyoPuyo_11559.md)   |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/8.svg"/>  | 2579  | 계단 오르기   | [🔍](https://www.acmicpc.net/problem/2579)  |  [📝](./baekjoon/계단오르기_2579.md)   |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 17609 | 회문          | [🔍](https://www.acmicpc.net/problem/17609) |     [📝](./baekjoon/회문_17609.md)     |
+|                                              난이도                                               | 번호  | 제목             |                    문제                     |                  풀이                   |
+| :-----------------------------------------------------------------------------------------------: | :---: | ---------------- | :-----------------------------------------: | :-------------------------------------: |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 17825 | 주사위 윷놀이    | [🔍](https://www.acmicpc.net/problem/17825) | [📝](./baekjoon/주사위윷놀이_17825.md)  |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 19942 | 다이어트         | [🔍](https://www.acmicpc.net/problem/19942) |   [📝](./baekjoon/다이어트_19942.md)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 10836 | 여왕벌           | [🔍](https://www.acmicpc.net/problem/10836) |    [📝](./baekjoon/여왕벌_10836.md)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/10.svg"/> | 9081  | 단어 맞추기      | [🔍](https://www.acmicpc.net/problem/9081)  |   [📝](./baekjoon/단어맞추기_9081.md)   |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 11559 | Puyo Puyo        | [🔍](https://www.acmicpc.net/problem/11559) |   [📝](./baekjoon/PuyoPuyo_11559.md)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/8.svg"/>  | 2579  | 계단 오르기      | [🔍](https://www.acmicpc.net/problem/2579)  |   [📝](./baekjoon/계단오르기_2579.md)   |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 17609 | 회문             | [🔍](https://www.acmicpc.net/problem/17609) |     [📝](./baekjoon/회문_17609.md)      |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 1197  | 최소 스패닝 트리 | [🔍](https://www.acmicpc.net/problem/1197)  | [📝](./baekjoon/최소스패닝트리_1197.md) |
 
 </div>
 </details>
