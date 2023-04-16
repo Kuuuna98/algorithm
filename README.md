@@ -25,6 +25,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/8.svg"/>  | 2579  | 계단 오르기      | [🔍](https://www.acmicpc.net/problem/2579)  |   [📝](./baekjoon/계단오르기_2579.md)   |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 17609 | 회문             | [🔍](https://www.acmicpc.net/problem/17609) |     [📝](./baekjoon/회문_17609.md)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 1197  | 최소 스패닝 트리 | [🔍](https://www.acmicpc.net/problem/1197)  | [📝](./baekjoon/최소스패닝트리_1197.md) |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 23291 | 어항 정리        | [🔍](https://www.acmicpc.net/problem/23291) |   [📝](./baekjoon/어항정리_23291.md)    |
 
 </div>
 </details>
