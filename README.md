@@ -30,6 +30,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/9.svg"/>  | 3085  | 사탕 게임        | [🔍](https://www.acmicpc.net/problem/3085)  |    [📝](./baekjoon/사탕게임_3085.md)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 11967 | 불켜기           | [🔍](https://www.acmicpc.net/problem/11967) |    [📝](./baekjoon/불켜기_11967.md)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 22251 | 빌런 호석        | [🔍](https://www.acmicpc.net/problem/22251) |   [📝](./baekjoon/빌런호석_22251.md)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 13164 | 행복 유치원      | [🔍](https://www.acmicpc.net/problem/13164) |  [📝](./baekjoon/행복유치원_13164.md)   |
 
 </div>
 </details>
