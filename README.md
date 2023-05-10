@@ -35,6 +35,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/10.svg"/> | 13335 | 트럭             | [🔍](https://www.acmicpc.net/problem/13335) |     [📝](./baekjoon/트럭_13335.md)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 22866 | 탑 보기          | [🔍](https://www.acmicpc.net/problem/22866) |    [📝](./baekjoon/탑보기_22866.md)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 1766  | 문제집           | [🔍](https://www.acmicpc.net/problem/1766)  |     [📝](./baekjoon/문제집_1766.md)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 6068  | 시간 관리하기    | [🔍](https://www.acmicpc.net/problem/6068)  |  [📝](./baekjoon/시간관리하기_6068.md)  |
 
 </div>
 </details>
