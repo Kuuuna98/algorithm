@@ -37,6 +37,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 1766  | 문제집           | [🔍](https://www.acmicpc.net/problem/1766)  |     [📝](./baekjoon/문제집_1766.md)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 6068  | 시간 관리하기    | [🔍](https://www.acmicpc.net/problem/6068)  |  [📝](./baekjoon/시간관리하기_6068.md)  |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 2623  | 음악프로그램     | [🔍](https://www.acmicpc.net/problem/2623)  |  [📝](./baekjoon/음악프로그램_2623.md)  |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 1253  | 좋다             | [🔍](https://www.acmicpc.net/problem/1253)  |      [📝](./baekjoon/좋다_1253.md)      |
 
 </div>
 </details>
