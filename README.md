@@ -71,6 +71,7 @@
 | ⭐️⭐️    | 방금그곡        | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |    [📝](./programmers/방금그곡.md)    |
 | ⭐️⭐️⭐️ | 징검다리 건너기 | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | [📝](./programmers/징검다리건너기.md) |
 | ⭐️⭐️    | 후보키          | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/42890) |     [📝](./programmers/후보키.md)     |
+| ⭐️⭐️⭐️ | 합승 택시 요금  | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/72413) |  [📝](./programmers/합승택시요금.md)  |
 
 </div>
 </details>
