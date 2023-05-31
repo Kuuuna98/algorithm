@@ -41,6 +41,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 1107  | 리모컨           | [🔍](https://www.acmicpc.net/problem/1107)  |     [📝](./baekjoon/리모컨_1107.md)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17092 | 색칠 공부        | [🔍](https://www.acmicpc.net/problem/17092) |   [📝](./baekjoon/색칠공부_17092.md)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 1038  | 감소하는 수      | [🔍](https://www.acmicpc.net/problem/1038)  |   [📝](./baekjoon/감소하는수_1038.md)   |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 18428 | 감시 피하기      | [🔍](https://www.acmicpc.net/problem/18428) |  [📝](./baekjoon/감시피하기_18428.md)   |
 
 </div>
 </details>
