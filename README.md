@@ -43,6 +43,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 1038  | 감소하는 수      | [🔍](https://www.acmicpc.net/problem/1038)  |   [📝](./baekjoon/감소하는수_1038.md)   |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 18428 | 감시 피하기      | [🔍](https://www.acmicpc.net/problem/18428) |  [📝](./baekjoon/감시피하기_18428.md)   |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 1238  | 파티             | [🔍](https://www.acmicpc.net/problem/1238)  |      [📝](./baekjoon/파티_1238.md)      |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 26732 | Agar.io          | [🔍](https://www.acmicpc.net/problem/26732) |    [📝](./baekjoon/Agar.io_26732.md)    |
 
 </div>
 </details>
