@@ -45,6 +45,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 1238  | 파티                         | [🔍](https://www.acmicpc.net/problem/1238)  |            [📝](./baekjoon/파티_1238.md)            |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 26732 | Agar.io                      | [🔍](https://www.acmicpc.net/problem/26732) |          [📝](./baekjoon/Agar.io_26732.md)          |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 23030 | 후다다닥을 이겨 츄르를 받자! | [🔍](https://www.acmicpc.net/problem/23030) | [📝](./baekjoon/후다다닥을이겨츄르를받자!_23030.md) |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/15.svg"/> | 2263  | 트리의 순회                  | [🔍](https://www.acmicpc.net/problem/2263)  |         [📝](./baekjoon/트리의순회_2263.md)         |
 
 </div>
 </details>
