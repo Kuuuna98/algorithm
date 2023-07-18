@@ -2,7 +2,7 @@
 
 💻 알고리즘 문제 풀이를 정리하는 공간
 
-- 개인적으로 푼 문제 + 스터디([NewSainTurtle](https://github.com/NewSainTurtle/NewSainTurtleAlgo))에서 푼 문제 정리
+- 개인적으로 푼 문제 + 스터디([NewSainTurtle](https://github.com/NewSainTurtle))에서 푼 문제 정리
 - 사용언어: Java
 
 ---
