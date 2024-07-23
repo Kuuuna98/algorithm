@@ -49,6 +49,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17141 | 연구소 2            | [🔍](https://www.acmicpc.net/problem/17141) |     [📝](./baekjoon/연구소2_17141.md)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 1245  | 농장관리             | [🔍](https://www.acmicpc.net/problem/1245)  |     [📝](./baekjoon/농장관리_1245.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 1339  | 단어 수학            | [🔍](https://www.acmicpc.net/problem/1339)  |     [📝](./baekjoon/단어수학_1339.java)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 1941  | 소문난 칠공주          | [🔍](https://www.acmicpc.net/problem/1941)  |    [📝](./baekjoon/소문난칠공주_1941.java)    |
 
 </div>
 </details>
