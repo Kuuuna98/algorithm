@@ -53,9 +53,10 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 3197  | 백조의 호수           | [🔍](https://www.acmicpc.net/problem/3197)  |    [📝](./baekjoon/백조의호수_3197.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 12904 | A와 B             | [🔍](https://www.acmicpc.net/problem/12904) |     [📝](./baekjoon/A와B_12904.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/15.svg"/> | 13459 | 구슬 탈출            | [🔍](https://www.acmicpc.net/problem/13459) |    [📝](./baekjoon/구슬탈출_13459.java)     |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 23354  | 군탈체포조            | [🔍](https://www.acmicpc.net/problem/23354) |    [📝](./baekjoon/군탈체포조_23354.java)    |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 2116 | 주사위 쌓기           | [🔍](https://www.acmicpc.net/problem/2116)  |    [📝](./baekjoon/주사위쌓기_2116.java)     |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 14503 | 로봇 청소기           | [🔍](https://www.acmicpc.net/problem/14503) |      [📝](./baekjoon/로봇청소기_14503.java)       |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 23354 | 군탈체포조            | [🔍](https://www.acmicpc.net/problem/23354) |    [📝](./baekjoon/군탈체포조_23354.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 2116  | 주사위 쌓기           | [🔍](https://www.acmicpc.net/problem/2116)  |    [📝](./baekjoon/주사위쌓기_2116.java)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 14503 | 로봇 청소기           | [🔍](https://www.acmicpc.net/problem/14503) |    [📝](./baekjoon/로봇청소기_14503.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 1600  | 말이 되고픈 원숭이       | [🔍](https://www.acmicpc.net/problem/1600)  |   [📝](./baekjoon/말이되고픈원숭이_1600.java)   |
 
 </div>
 </details>
