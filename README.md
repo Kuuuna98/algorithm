@@ -58,6 +58,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 14503 | 로봇 청소기           | [🔍](https://www.acmicpc.net/problem/14503) |    [📝](./baekjoon/로봇청소기_14503.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 1600  | 말이 되고픈 원숭이       | [🔍](https://www.acmicpc.net/problem/1600)  |   [📝](./baekjoon/말이되고픈원숭이_1600.java)   |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 16926 | 배열 돌리기 1         | [🔍](https://www.acmicpc.net/problem/16926) |   [📝](./baekjoon/배열돌리기1_16926.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 16935 | 배열 돌리기 3         | [🔍](https://www.acmicpc.net/problem/16935) |   [📝](./baekjoon/배열돌리기3_16935.java)    |
 
 </div>
 </details>
