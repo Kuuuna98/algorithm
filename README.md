@@ -62,7 +62,8 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/15.svg"/> | 17143 | 낚시왕              | [🔍](https://www.acmicpc.net/problem/17143) |     [📝](./baekjoon/낚시왕_17143.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 2493  | 탑                | [🔍](https://www.acmicpc.net/problem/2493) |      [📝](./baekjoon/탑_2493.java)       |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 6137  | 문자열 생성           | [🔍](https://www.acmicpc.net/problem/6137) |    [📝](./baekjoon/문자열생성_6137.java)     |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17404 | RGB거리 2          | [🔍](https://www.acmicpc.net/problem/17404) |      [📝](./baekjoon/RGB거리2_17404.java)      |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17404 | RGB거리 2          | [🔍](https://www.acmicpc.net/problem/17404) |   [📝](./baekjoon/RGB거리2_17404.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16197 | 두 동전             | [🔍](https://www.acmicpc.net/problem/16197) |       [📝](./baekjoon/두동전_16197.java)        |
 
 </div>
 </details>
