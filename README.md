@@ -64,7 +64,8 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 6137  | 문자열 생성           | [🔍](https://www.acmicpc.net/problem/6137) |    [📝](./baekjoon/문자열생성_6137.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17404 | RGB거리 2          | [🔍](https://www.acmicpc.net/problem/17404) |   [📝](./baekjoon/RGB거리2_17404.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16197 | 두 동전             | [🔍](https://www.acmicpc.net/problem/16197) |     [📝](./baekjoon/두동전_16197.java)     |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 7662 | 이중 우선순위 큐        | [🔍](https://www.acmicpc.net/problem/7662) |   [📝](./baekjoon/이중우선순위큐_7662.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 7662  | 이중 우선순위 큐        | [🔍](https://www.acmicpc.net/problem/7662) |   [📝](./baekjoon/이중우선순위큐_7662.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 1461  | 도서관              | [🔍](https://www.acmicpc.net/problem/1461) |       [📝](./baekjoon/도서관_1461.java)        |
 
 </div>
 </details>
