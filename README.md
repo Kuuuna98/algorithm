@@ -67,8 +67,10 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 7662  | 이중 우선순위 큐        | [🔍](https://www.acmicpc.net/problem/7662) |   [📝](./baekjoon/이중우선순위큐_7662.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 1461  | 도서관              | [🔍](https://www.acmicpc.net/problem/1461) |     [📝](./baekjoon/도서관_1461.java)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 5549  | 행성 탐사            | [🔍](https://www.acmicpc.net/problem/5549) |      [📝](./baekjoon/행성탐사_5549.md)      |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 16928 | 뱀과 사다리 게임        | [🔍](https://www.acmicpc.net/problem/16928) |     [📝](./baekjoon/뱀과사다리게임_16928.java)      |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16292  | Two Dots         | [🔍](https://www.acmicpc.net/problem/16292) |     [📝](./baekjoon/TwoDots_16292.java)      |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 16928 | 뱀과 사다리 게임        | [🔍](https://www.acmicpc.net/problem/16928) |   [📝](./baekjoon/뱀과사다리게임_16928.java)   |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16292 | Two Dots         | [🔍](https://www.acmicpc.net/problem/16292) |   [📝](./baekjoon/TwoDots_16292.java)   |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 14719 | 빗물               | [🔍](https://www.acmicpc.net/problem/14719) |        [📝](./baekjoon/빗물_14719.java)        |
+
 </div>
 </details>
 
