@@ -71,7 +71,8 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16292 | Two Dots         | [🔍](https://www.acmicpc.net/problem/16292) |   [📝](./baekjoon/TwoDots_16292.java)   |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 14719 | 빗물               | [🔍](https://www.acmicpc.net/problem/14719) |     [📝](./baekjoon/빗물_14719.java)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 2251  | 물통               | [🔍](https://www.acmicpc.net/problem/2251) |       [📝](./baekjoon/물통_2251.md)       |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/8.svg"/>  | 14501 | 퇴사               | [🔍](https://www.acmicpc.net/problem/14501) |         [📝](./baekjoon/퇴사_14501.md)         |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/8.svg"/>  | 14501 | 퇴사               | [🔍](https://www.acmicpc.net/problem/14501) |      [📝](./baekjoon/퇴사_14501.md)       |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17406 | 배열 돌리기 4         | [🔍](https://www.acmicpc.net/problem/17406) |      [📝](./baekjoon/배열돌리기4_17406.java)      |
 
 </div>
 </details>
