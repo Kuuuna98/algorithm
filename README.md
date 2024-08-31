@@ -74,7 +74,8 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/8.svg"/>  | 14501 | 퇴사              | [🔍](https://www.acmicpc.net/problem/14501) |      [📝](./baekjoon/퇴사_14501.md)       |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 17406 | 배열 돌리기 4        | [🔍](https://www.acmicpc.net/problem/17406) |   [📝](./baekjoon/배열돌리기4_17406.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 2212  | 센서              | [🔍](https://www.acmicpc.net/problem/2212)  |       [📝](./baekjoon/센서_2212.md)       |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 16637 | 괄호 추가하기         | [🔍](https://www.acmicpc.net/problem/16637)  |       [📝](./baekjoon/괄호추가하기_16637.md)       |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 16637 | 괄호 추가하기         | [🔍](https://www.acmicpc.net/problem/16637) |    [📝](./baekjoon/괄호추가하기_16637.md)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 14499 | 주사위 굴리기         | [🔍](https://www.acmicpc.net/problem/14499) |      [📝](./baekjoon/주사위굴리기_14499.java)      |
 
 </div>
 </details>
