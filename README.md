@@ -77,7 +77,8 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 16637 | 괄호 추가하기          | [🔍](https://www.acmicpc.net/problem/16637) |    [📝](./baekjoon/괄호추가하기_16637.md)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 14499 | 주사위 굴리기          | [🔍](https://www.acmicpc.net/problem/14499) |   [📝](./baekjoon/주사위굴리기_14499.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 6987  | 월드컵              | [🔍](https://www.acmicpc.net/problem/6987)  |      [📝](./baekjoon/월드컵_6987.md)       |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 14502 | 연구소              | [🔍](https://www.acmicpc.net/problem/14502) |       [📝](./baekjoon/연구소_14502.java)        |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 14502 | 연구소              | [🔍](https://www.acmicpc.net/problem/14502) |     [📝](./baekjoon/연구소_14502.java)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/10.svg"/> | 10844 | 쉬운 계단 수          | [🔍](https://www.acmicpc.net/problem/10844) |       [📝](./baekjoon/쉬운계단수_10844.md)        |
 
 </div>
 </details>
