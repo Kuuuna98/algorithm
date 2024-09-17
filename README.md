@@ -84,7 +84,9 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 18405 | 경쟁적 전염           | [🔍](https://www.acmicpc.net/problem/18405) |    [📝](./baekjoon/경쟁적전염_18405.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16120 | PPAP             | [🔍](https://www.acmicpc.net/problem/16120) |     [📝](./baekjoon/PPAP_16120.md)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 15685 | 드래곤 커브           | [🔍](https://www.acmicpc.net/problem/15685) |    [📝](./baekjoon/드래곤커브_15685.java)    |
-| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 2589  | 보물섬              | [🔍](https://www.acmicpc.net/problem/2589) |        [📝](./baekjoon/보물섬_2589.md)         |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 2589  | 보물섬              | [🔍](https://www.acmicpc.net/problem/2589)  |      [📝](./baekjoon/보물섬_2589.md)       |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 15685 | 드래곤 커브           | [🔍](https://www.acmicpc.net/problem/15685) |    [📝](./baekjoon/드래곤커브_15685.java)    |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 17136 | 색종이 붙이기          | [🔍](https://www.acmicpc.net/problem/17136) |    [📝](./baekjoon/색종이붙이기_17136.md)     |
 
 </div>
 </details>
