@@ -88,6 +88,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 15685 | 드래곤 커브           | [🔍](https://www.acmicpc.net/problem/15685) |    [📝](./baekjoon/드래곤커브_15685.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 17136 | 색종이 붙이기          | [🔍](https://www.acmicpc.net/problem/17136) |    [📝](./baekjoon/색종이붙이기_17136.md)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 3055  | 탈출               | [🔍](https://www.acmicpc.net/problem/3055)  |      [📝](./baekjoon/탈출_3055.java)      |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 2661  | 좋은수열             | [🔍](https://www.acmicpc.net/problem/2661)  |     [📝](./baekjoon/좋은수열_2661.java)     |
 
 </div>
 </details>
