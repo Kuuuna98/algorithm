@@ -92,6 +92,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 15684 | 사다리 조작           | [🔍](https://www.acmicpc.net/problem/15684) |    [📝](./baekjoon/사다리조작_15684.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 16234 | 인구 이동            | [🔍](https://www.acmicpc.net/problem/16234) |    [📝](./baekjoon/인구이동_16234.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/15.svg"/> | 19237 | 어른 상어            | [🔍](https://www.acmicpc.net/problem/19237) |    [📝](./baekjoon/어른상어_19237.java)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/> | 20055 | 컨베이어 벨트 위의 로봇    | [🔍](https://www.acmicpc.net/problem/20055) | [📝](./baekjoon/컨베이어벨트위의로봇_20055.java)  |
 
 </div>
 </details>
