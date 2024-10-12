@@ -96,6 +96,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 17142 | 연구소 3            | [🔍](https://www.acmicpc.net/problem/17142) |    [📝](./baekjoon/연구소3_17142.java)     |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 14500 | 테트로미노            | [🔍](https://www.acmicpc.net/problem/14500) |    [📝](./baekjoon/테트로미노_14500.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 20056 | 마법사 상어와 파이어볼     | [🔍](https://www.acmicpc.net/problem/20056) | [📝](./baekjoon/마법사상어와파이어볼_20056.java)  |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 15683 | 감시               | [🔍](https://www.acmicpc.net/problem/15683) |     [📝](./baekjoon/감시_15683.java)      |
 
 </div>
 </details>
