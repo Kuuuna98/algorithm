@@ -115,6 +115,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 코드트리 빵      |     [🔍](https://www.codetree.ai/training-field/frequent-problems/codetree-mon-bread/description)     |  [📝](./codetree/코드트리빵.md)   |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 싸움땅         |       [🔍](https://www.codetree.ai/training-field/frequent-problems/battle-ground/description)        |   [📝](./codetree/싸움땅.md)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/14.svg"/> | 루돌프의 반란     | [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description) | [📝](./codetree/루돌프의반란.java) |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 회전하는 빙하     | [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/rotating-glacier/description)  | [📝](./codetree/회전하는빙하.java) |
 
 </div>
 </details>
