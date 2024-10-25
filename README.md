@@ -136,6 +136,7 @@
 | ⭐️⭐️   | 파일명 정렬    | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/17686)  |   [📝](./programmers/파일명정렬.md)   |
 | ⭐️     | 동영상 재생기   | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | [📝](./programmers/동영상재생기.java)  |
 | ⭐️⭐️   | 퍼즐 게임 챌린지 | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [📝](./programmers/퍼즐게임챌린지.java) |
+| ⭐️⭐️⭐️ | 등산코스 정하기  | [🔍](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | [📝](./programmers/등산코스정하기.java) |
 
 </div>
 </details>
