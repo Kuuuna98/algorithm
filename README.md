@@ -99,6 +99,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 15683 | 감시               | [🔍](https://www.acmicpc.net/problem/15683) |     [📝](./baekjoon/감시_15683.java)      |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 17135 | 캐슬 디펜스           | [🔍](https://www.acmicpc.net/problem/17135) |    [📝](./baekjoon/캐슬디펜스_17135.java)    |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 4354  | 문자열 제곱           | [🔍](https://www.acmicpc.net/problem/4354)  |    [📝](./baekjoon/문자열제곱_4354.java)     |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 9252  | LCS 2            | [🔍](https://www.acmicpc.net/problem/9252)  |     [📝](./baekjoon/LCS2_9252.java)     |
 
 </div>
 </details>
