@@ -11,10 +11,11 @@
 
 <details>
   <summary>📁 백준</summary>
+  </br>
 <div markdown="1">
 
 <details>
-  <summary>--- 📁 플래티넘</summary>
+  <summary>--- 🔖 플래티넘</summary>
   </br>
 <div markdown="1">
 
@@ -23,11 +24,12 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 23291 | 어항 정리  | [🔍](https://www.acmicpc.net/problem/23291) |  [📝](./baekjoon/어항정리_23291.md)  |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 3197  | 백조의 호수 | [🔍](https://www.acmicpc.net/problem/3197)  | [📝](./baekjoon/백조의호수_3197.java) |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/16.svg"/> | 4354  | 문자열 제곱 | [🔍](https://www.acmicpc.net/problem/4354)  | [📝](./baekjoon/문자열제곱_4354.java) |
+
 </div>
 </details>
 
 <details>
-  <summary>--- 📁 골드(1~3)</summary>
+  <summary>--- 🔖 골드(1~3)</summary>
   </br>
 
 <div markdown="1">
@@ -61,7 +63,7 @@
 </details>
 
 <details>
-  <summary>--- 📁 골드(4~5)</summary>
+  <summary>--- 🔖 골드(4~5)</summary>
   </br>
 
 <div markdown="1">
@@ -125,7 +127,7 @@
 </details>
 
 <details>
-  <summary>--- 📁 실버</summary>
+  <summary>--- 🔖 실버</summary>
   </br>
 
 <div markdown="1">
@@ -161,6 +163,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 회전하는 빙하     |      [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/rotating-glacier/description)      |  [📝](./codetree/회전하는빙하.java)  |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 마법의 숲 탐색    | [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/magical-forest-exploration/description) |  [📝](./codetree/마법의숲탐색.java)  |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 고대 문명 유적 탐사 |  [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/ancient-ruin-exploration/description)  | [📝](./codetree/고대문명유적탐사.java) |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 왕실의 기사 대결   |     [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description)      | [📝](./codetree/왕실의기사대결.java)  |
 
 </div>
 </details>
@@ -217,8 +220,9 @@
 .
 ├── README.md
 ├── baekjoon
-│   ├── {제목}_{번호}.md
-│   ├── {제목}_{번호}.java
+│   ├── 실버
+│   │   ├── {제목}_{번호}.md
+│   │   └── {제목}_{번호}.java
 │   └── ...
 ├── codetree
 │   ├── {제목}.md
