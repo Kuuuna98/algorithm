@@ -165,6 +165,7 @@
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/> | 고대 문명 유적 탐사 |  [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/ancient-ruin-exploration/description)  | [📝](./codetree/고대문명유적탐사.java) |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 왕실의 기사 대결   |     [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description)      | [📝](./codetree/왕실의기사대결.java)  |
 | <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/> | 메이즈 러너      |        [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description)         |  [📝](./codetree/메이즈러너.java)   |
+| <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/15.svg"/> | 꼬리잡기놀이      |      [🔍](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description)       |  [📝](./codetree/꼬리잡기놀이.java)  |
 
 </div>
 </details>
